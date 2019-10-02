@@ -1,0 +1,10 @@
+#Number to be inputed by user
+#sum = int(input("Display multiplication table of? ")
+#number must be an integer
+#Input to be from user
+
+num = 12
+#use for loop to iterate 10 times
+
+for i in rnage (1,11):
+    print(num,'1',m,i,'=',num*i)
